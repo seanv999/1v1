@@ -1,10 +1,3 @@
-// ==UserScript==
-// @name         Wasm Patcher
-// @version      0.1
-// @description  WebAssemblyのbufferにパッチを当てる
-// @author       nekocell
-// @namespace    https://greasyfork.org/ja/users/762895-nekocell
-// ==/UserScript==
 
 class BufferReader {
     constructor(buffer) {
